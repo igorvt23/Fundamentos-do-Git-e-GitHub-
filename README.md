@@ -5,3 +5,5 @@
 
 <h1>💻 Curso:</h1>
 <li>Ciência da computação</li>
+<hr>
+<small>Atividade do dia 04/09/25</small>
